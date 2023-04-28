@@ -1,0 +1,51 @@
+baseURL = 'https://xc458.github.io/'
+
+languageCode = 'en-us'
+title = "Sivan Cao"
+
+# 启用主题
+theme = 'JuiceBar'
+
+[params]
+Name = "Xiwen (Sivan) Cao"
+baseURL = 'https://xc458.github.io/'
+sitename = "Sivan Cao"
+Title = "Sivan Cao"
+Content = "Welcome to my world~"
+authorImage = "/images/author.jpg"
+imageUrl = "/images/xc458.jpg"
+paginate = 5
+# To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
+[[params.social]]
+name = "Github"
+url = "https://github.coecis.cornell.edu/xc458"
+[[params.social]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/xiwen-cao-52693023b/"
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/Sivan_0914"
+[[params.social]]
+name = "instagram"
+url = "https://instagram.com/sivan_0914?igshid=YmMyMTA2M2Y="
+[[params.social]]
+name = "email"
+url = "mailto:xc458@cornell.edu"
+
+[taxonomies]
+category = "categories"
+
+# To add a new navigation link
+[[menu.main]]
+name = "About"
+url = "/about"
+[[menu.main]]
+name = "Archive"
+url = "/post"
+[[menu.main]]
+name = "Categories"
+url = "/categories"
+
+# Used for outputting the documentation (required).
+[outputs]
+home = ["HTML", "RSS", "JSON"]
