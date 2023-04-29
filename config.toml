@@ -12,8 +12,8 @@ baseURL = 'https://xc458.github.io/'
 sitename = "Sivan Cao"
 Title = "Sivan Cao"
 Content = "Welcome to my world~"
-authorImage = "/images/author.jpg"
-imageUrl = "/images/xc458.jpg"
+authorImage = "https://github.com/xiwencao/xc458.github.io/blob/main/static/images/author.jpg?raw=true"
+imageUrl = "https://github.com/xiwencao/xc458.github.io/blob/main/static/images/xc458.jpg?raw=true"
 paginate = 5
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
