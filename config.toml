@@ -6,7 +6,7 @@ theme = 'JuiceBar'
 
 [params]
 Name = "Xiwen (Sivan) Cao"
-homepage = ‘https://xiwencao.github.io/xc458.github.io/’
+homepage = 'https://xiwencao.github.io/xc458.github.io/'
 baseURL = 'https://xc458.github.io/'
 sitename = "Sivan Cao"
 Title = "Sivan Cao"
