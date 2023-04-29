@@ -1,17 +1,17 @@
 languageCode = 'en-us'
 title = "Sivan Cao"
-baseURL = 'https://xc458.github.io/'
+baseURL = 'https://xiwencao.github.io/'
 # 启用主题
 theme = 'JuiceBar'
 
 [params]
 Name = "Xiwen (Sivan) Cao"
-baseURL = 'https://xc458.github.io/'
+baseURL = 'https://xiwencao.github.io/'
 sitename = "Sivan Cao"
 Title = "Sivan Cao"
 Content = "Welcome to my world~"
-authorImage = 'https://raw.githubusercontent.com/xiwencao/xc458.github.io/main/static/images/author.jpg'
-imageUrl = 'https://raw.githubusercontent.com/xiwencao/xc458.github.io/main/static/images/xc458.jpg'
+authorImage = 'https://raw.githubusercontent.com/xiwencao/xiwencao.github.io/main/static/images/author.jpg'
+imageUrl = 'https://raw.githubusercontent.com/xiwencao/xiwencao.github.io/main/static/images/xc458.jpg'
 paginate = 5
 # To add a new social icon (More social icons can be found in JuiceBar\layouts\partials\svg.html.)
 [[params.social]]
