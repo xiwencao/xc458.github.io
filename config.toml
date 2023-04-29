@@ -1,12 +1,13 @@
 languageCode = 'en-us'
 title = "Sivan Cao"
-
+baseURL = 'https://xc458.github.io/'
 # 启用主题
 theme = 'JuiceBar'
 
 [params]
 Name = "Xiwen (Sivan) Cao"
-baseURL = 'https://xc458.github.io/''
+homepage = ‘https://xiwencao.github.io/xc458.github.io/’
+baseURL = 'https://xc458.github.io/'
 sitename = "Sivan Cao"
 Title = "Sivan Cao"
 Content = "Welcome to my world~"
